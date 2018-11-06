@@ -7,10 +7,10 @@
             			 max=a;
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/olismajid/praktikum4/master/Flowchart1.jpg)
+![Flowchart](https://github.com/Ibnumudjiatief/Praktikum4/blob/master/Flowchart1.jpg)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/olismajid/praktikum4/master/screnshoot1.png)
+![Screenshoot](https://github.com/Ibnumudjiatief/Praktikum4/blob/master/screnshot1.png)
 
 **code program lengkap**
 '''c++
@@ -39,10 +39,10 @@ int main()
 3. Membandingkan nilai variable  harga=0,harga_barang=0,total=0,bayar=0,diskon;
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/olismajid/praktikum4/master/flowchart2.jpg)
+![Flowchart](https://github.com/Ibnumudjiatief/Praktikum4/blob/master/flowchart2.jpg)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/olismajid/praktikum4/master/screnshoot2.png)
+![Screenshoot](https://github.com/Ibnumudjiatief/Praktikum4/blob/master/screnshot2.png)
 
 **code program lengkap**
 '''c++
@@ -88,4 +88,3 @@ int main ()
     cout<< "Total Yang Harus Di bayar =Rp"<<bayar<<endl;
 }
 
-# Praktikum4
